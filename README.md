@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonal</h1>
-<h3 align="center">An aspiring developer learning Python, Java and Web Development</h3>
+<h3 align="center">An aspiring developer learning Java and Web Development</h3>
 
-- 🌱 I’m currently learning **python | Java | HTML | CSS | Basic DSA**
+- 🌱 I’m currently learning ** Java | React | Basic DSA**
 
 - 💬 Ask me about **beginner-level web development, or java and python basics**
 
