@@ -1,4 +1,4 @@
-&#x20;\<h1 align="center">Hi 👋, I'm Sonal\</h1> \<h3 align="center">Third-year Computer Science student exploring Software Development and AI\</h3>
+\<h1 align="center">Hi 👋, I'm Sonal\</h1> \<h3 align="center">Third-year Computer Science student exploring Software Development and AI\</h3>
 
 - 🌱 I’m currently learning **Java | Spring Boot | React | DSA**
 - 💻 I have worked with **HTML | CSS | JavaScript | Java | React**
