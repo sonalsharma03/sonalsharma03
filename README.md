@@ -1,7 +1,8 @@
-\<h1 align="center">Hi 👋, I'm Sonal\</h1> \<h3 align="center">Third-year Computer Science student exploring Software Development and AI\</h3>
+<h1 align="center">Hi 👋, I'm Sonal</h1>
+<h3 align="center">Third-year Computer Science student exploring Software Development and AI</h3>
 
-- 🌱 I’m currently learning **Java | Spring Boot | React | DSA**
-- 💻 I have worked with **HTML | CSS | JavaScript | Java | React**
+-  I’m currently learning **Java | Spring Boot | React | DSA**
+-  I have worked with **HTML | CSS | JavaScript | Java | React**
 - 🤖 Exploring **AI tools, APIs and their integration into applications**
 - 🛠️ Working with **Git, GitHub and REST APIs**
 - 💬 Ask me about **Java, React, MySQL, Spring Boot and web development**
